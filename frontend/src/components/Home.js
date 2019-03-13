@@ -88,7 +88,7 @@ class Home extends Component {
                                           </a><div style={{marginBottom: '1.2rem'}}><a href="/w3images/lights.jpg" target="_blank">
                                               <p id="username" style={{textAlign: 'center', fontSize: '1.4rem', fontWeight: 700, letterSpacing: '.25rem', textTransform: 'uppercase', color: '#1d28a1'}} />
                                             </a><h1 id="title" style={{textAlign: 'center', marginBottom: '4.5rem'}}><a href="/w3images/lights.jpg" target="_blank">
-                                              </a><a style={{textAlign: 'center', fontSize: '2.8rem', fontWeight: 700, letterSpacing: '-.1rem', color: '#000'}}>&lt;%= title %&gt;</a>
+                                              </a><a style={{textAlign: 'center', fontSize: '2.8rem', fontWeight: 700, letterSpacing: '-.1rem', color: '#000'}}>title</a>
                                             </h1>
                                             <h1 id="description" style={{textAlign: 'center', marginBottom: '4.5rem'}}>
                                               <a style={{textAlign: 'center', fontSize: '1.8rem', fontWeight: 700, letterSpacing: '-.1rem', color: '#000'}} />
@@ -108,7 +108,7 @@ class Home extends Component {
                                           </a><div style={{marginBottom: '1.2rem'}}><a href="/w3images/lights.jpg" target="_blank">
                                               <p id="username" style={{textAlign: 'center', fontSize: '1.4rem', fontWeight: 700, letterSpacing: '.25rem', textTransform: 'uppercase', color: '#1d28a1'}} />
                                             </a><h1 id="title" style={{textAlign: 'center', marginBottom: '4.5rem'}}><a href="/w3images/lights.jpg" target="_blank">
-                                              </a><a style={{textAlign: 'center', fontSize: '2.8rem', fontWeight: 700, letterSpacing: '-.1rem', color: '#000'}}>&lt;%= title %&gt;</a>
+                                              </a><a style={{textAlign: 'center', fontSize: '2.8rem', fontWeight: 700, letterSpacing: '-.1rem', color: '#000'}}>title</a>
                                             </h1>
                                             <h1 id="description" style={{textAlign: 'center', marginBottom: '4.5rem'}}>
                                               <a style={{textAlign: 'center', fontSize: '1.8rem', fontWeight: 700, letterSpacing: '-.1rem', color: '#000'}} />
@@ -132,7 +132,7 @@ class Home extends Component {
                                           </a><div style={{marginBottom: '1.2rem'}}><a href="/w3images/lights.jpg" target="_blank">
                                               <p id="username" style={{textAlign: 'center', fontSize: '1.4rem', fontWeight: 700, letterSpacing: '.25rem', textTransform: 'uppercase', color: '#1d28a1'}} />
                                             </a><h1 id="title" style={{textAlign: 'center', marginBottom: '4.5rem'}}><a href="/w3images/lights.jpg" target="_blank">
-                                              </a><a style={{textAlign: 'center', fontSize: '2.8rem', fontWeight: 700, letterSpacing: '-.1rem', color: '#000'}}>&lt;%= title %&gt;</a>
+                                              </a><a style={{textAlign: 'center', fontSize: '2.8rem', fontWeight: 700, letterSpacing: '-.1rem', color: '#000'}}>title</a>
                                             </h1>
                                             <h1 id="description" style={{textAlign: 'center', marginBottom: '4.5rem'}}>
                                               <a style={{textAlign: 'center', fontSize: '1.8rem', fontWeight: 700, letterSpacing: '-.1rem', color: '#000'}} />
@@ -152,7 +152,7 @@ class Home extends Component {
                                           </a><div style={{marginBottom: '1.2rem'}}><a href="/w3images/lights.jpg" target="_blank">
                                               <p id="username" style={{textAlign: 'center', fontSize: '1.4rem', fontWeight: 700, letterSpacing: '.25rem', textTransform: 'uppercase', color: '#1d28a1'}} />
                                             </a><h1 id="title" style={{textAlign: 'center', marginBottom: '4.5rem'}}><a href="/w3images/lights.jpg" target="_blank">
-                                              </a><a style={{textAlign: 'center', fontSize: '2.8rem', fontWeight: 700, letterSpacing: '-.1rem', color: '#000'}}>&lt;%= title %&gt;</a>
+                                              </a><a style={{textAlign: 'center', fontSize: '2.8rem', fontWeight: 700, letterSpacing: '-.1rem', color: '#000'}}>title</a>
                                             </h1>
                                             <h1 id="description" style={{textAlign: 'center', marginBottom: '4.5rem'}}>
                                               <a style={{textAlign: 'center', fontSize: '1.8rem', fontWeight: 700, letterSpacing: '-.1rem', color: '#000'}} />
@@ -176,7 +176,7 @@ class Home extends Component {
                                           </a><div style={{marginBottom: '1.2rem'}}><a href="/w3images/lights.jpg" target="_blank">
                                               <p id="username" style={{textAlign: 'center', fontSize: '1.4rem', fontWeight: 700, letterSpacing: '.25rem', textTransform: 'uppercase', color: '#1d28a1'}} />
                                             </a><h1 id="title" style={{textAlign: 'center', marginBottom: '4.5rem'}}><a href="/w3images/lights.jpg" target="_blank">
-                                              </a><a style={{textAlign: 'center', fontSize: '2.8rem', fontWeight: 700, letterSpacing: '-.1rem', color: '#000'}}>&lt;%= title %&gt;</a>
+                                              </a><a style={{textAlign: 'center', fontSize: '2.8rem', fontWeight: 700, letterSpacing: '-.1rem', color: '#000'}}>title</a>
                                             </h1>
                                             <h1 id="description" style={{textAlign: 'center', marginBottom: '4.5rem'}}>
                                               <a style={{textAlign: 'center', fontSize: '1.8rem', fontWeight: 700, letterSpacing: '-.1rem', color: '#000'}} />
@@ -196,7 +196,7 @@ class Home extends Component {
                                           </a><div style={{marginBottom: '1.2rem'}}><a href="/w3images/lights.jpg" target="_blank">
                                               <p id="username" style={{textAlign: 'center', fontSize: '1.4rem', fontWeight: 700, letterSpacing: '.25rem', textTransform: 'uppercase', color: '#1d28a1'}} />
                                             </a><h1 id="title" style={{textAlign: 'center', marginBottom: '4.5rem'}}><a href="/w3images/lights.jpg" target="_blank">
-                                              </a><a style={{textAlign: 'center', fontSize: '2.8rem', fontWeight: 700, letterSpacing: '-.1rem', color: '#000'}}>&lt;%= title %&gt;</a>
+                                              </a><a style={{textAlign: 'center', fontSize: '2.8rem', fontWeight: 700, letterSpacing: '-.1rem', color: '#000'}}>title</a>
                                             </h1>
                                             <h1 id="description" style={{textAlign: 'center', marginBottom: '4.5rem'}}>
                                               <a style={{textAlign: 'center', fontSize: '1.8rem', fontWeight: 700, letterSpacing: '-.1rem', color: '#000'}} />
